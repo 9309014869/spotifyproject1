@@ -1,1 +1,3 @@
 print("hello")
+print(a+b);
+print("ia unalbe to play")
