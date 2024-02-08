@@ -1,2 +1,7 @@
+
+print("hello")
+print(a+b);
+print("ia unalbe to play")
+
 print(a+b)
 print(c=a+b)
