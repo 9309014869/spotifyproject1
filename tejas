@@ -5,4 +5,3 @@ print("ia unalbe to play")
 
 print(a+b)
 print(c=a+b)
-
