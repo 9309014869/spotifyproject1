@@ -1,4 +1,2 @@
 print(a+b)
 print(c=a+b)
-#include<instdio.h>
-#include<stdio.h>
